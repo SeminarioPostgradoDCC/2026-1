@@ -27,6 +27,6 @@ Sala de Estudio Ingeniería Química y Bioprocesos (QB-105)
 |22 - Mayo | Receso UC | |
 |29 - Mayo | Presentación / Charla  | |
 |05 - Junio | Presentación / Charla |  |
-|12 - Junio | Presentación / Charla | Segunda entrega de Abstract |
+|12 - Junio | Presentación / Charla | Presenta Alejandra Schild + Segunda entrega de Abstract |
 |19 - Junio | Presentación / Charla ||
 |26 - Junio | Presentación / Charla | |
