@@ -29,4 +29,4 @@ Sala de Estudio Ingeniería Química y Bioprocesos (QB-105)
 |05 - Junio | Presentación / Charla | Presenta Felipe Marín |
 |12 - Junio | Presentación / Charla | Presenta Alejandra Schild + Segunda entrega de Abstract |
 |19 - Junio | Presentación / Charla | Presenta Andrea Acosta |
-|26 - Junio | Presentación / Charla | |
+|26 - Junio | Presentación / Charla | Presentan Alexandra Moraga y Nicolás Mansilla |
