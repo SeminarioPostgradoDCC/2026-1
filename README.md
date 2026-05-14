@@ -25,7 +25,7 @@ Sala de Estudio Ingeniería Química y Bioprocesos (QB-105)
 |8 - Mayo | Presentación / Charla | |
 |15 - Mayo | Presentación / Charla | |
 |22 - Mayo | Receso UC | |
-|29 - Mayo | Presentación / Charla  | |
+|29 - Mayo | Presentación / Charla  | Presenta Erick Svec|
 |05 - Junio | Presentación / Charla | Presenta Felipe Marín |
 |12 - Junio | Presentación / Charla | Presenta Alejandra Schild + Segunda entrega de Abstract |
 |19 - Junio | Presentación / Charla | Presenta Andrea Acosta |
